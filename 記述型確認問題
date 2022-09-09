@@ -1,0 +1,24 @@
+
+puts "1回目の出力です"
+
+nums = [1,2,3,4,5]
+
+for nums in 1..5 do
+puts nums
+end
+
+puts "2回目の出力です"
+
+nums = [1,2,3,4,5]
+
+for nums in 1..5 do
+puts nums
+end
+
+puts "3回目の出力です"
+
+nums = [1,2,3,4,5]
+
+for nums in 1..5 do
+puts nums
+end
