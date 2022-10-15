@@ -1,8 +1,11 @@
-
-
 class Car
-    def self.turn(direction)
-    puts "#{direction}に曲がります。"
-    end
-  end
+ 
+ def turn
+  　puts "#{turn}に曲がります"
+ end
+end 
+
+Car = car.new
 Car.turn("右")
+
+
